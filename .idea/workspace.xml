@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="287be6ef-eed7-4cc9-abeb-f3dbeeb2d327" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ProjectId" id="1bGi8B2v8MmM19puP296x6XzxCv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="287be6ef-eed7-4cc9-abeb-f3dbeeb2d327" name="Default Changelist" comment="" />
+      <created>1588264668215</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588264668215</updated>
+      <workItem from="1588264671215" duration="3099000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="212" y="65" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588264740994">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="212" y="65" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1588264740994" />
+    <state width="1342" height="260" key="GridCell.Tab.0.bottom" timestamp="1588267752784">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="260" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588267752784" />
+    <state width="1342" height="260" key="GridCell.Tab.0.center" timestamp="1588267752784">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="260" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588267752784" />
+    <state width="1342" height="260" key="GridCell.Tab.0.left" timestamp="1588267752784">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="260" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588267752784" />
+    <state width="1342" height="260" key="GridCell.Tab.0.right" timestamp="1588267752784">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="260" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588267752784" />
+    <state x="266" y="55" key="SettingsEditor" timestamp="1588267997706">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="266" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1588267997706" />
+    <state x="468" y="13" width="578" height="795" key="find.popup" timestamp="1588266585037">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="468" y="13" width="578" height="795" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1588266585037" />
+  </component>
+</project>
